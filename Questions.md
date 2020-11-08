@@ -8,4 +8,4 @@
 ####What did you find most difficult?\
 #####R: Understand how promotions will be applied if some products have more promotions to be applied.\
 ####How did you find the overall experience, any feedback for us?\
-#####R: Great, this is a good way to evaluate code skills developers\
+#####R: Great, this is a good way to evaluate code skills developers
